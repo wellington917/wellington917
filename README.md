@@ -15,7 +15,7 @@ Olá meu nome é Wellington Lima
   ##
   
 <div>
-  <a href = "wellington97124582@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
+  <a href = "mailto:wellington97124582@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
 </div
   
 ![ Animação de cobra ](https://github.com/wellington917/wellington917/blob/output/github-contribution-grid-snake.svg)
